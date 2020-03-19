@@ -1,8 +1,15 @@
 ## Geo-Chat
-![geo](https://user-images.githubusercontent.com/57630799/77109330-bb8da300-6a49-11ea-896e-28f39531fefe.gif)
+![Uploading Gfycat video downloader keepsaveit.gif…]()
 
 
 ## Build Setup
+
+mkdir Geo-Chat
+cd Geo-Chat
+
+#Clone the Repository
+git clone https://github.com/Error-200/Geo-Chat.git
+
 
 ``` bash
 # install dependencies
@@ -18,4 +25,8 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## Build With
+
+* Vue.js
+* Firebase
+
