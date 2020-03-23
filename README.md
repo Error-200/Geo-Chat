@@ -1,7 +1,7 @@
 ## Geo-Chat
 ![gg](https://user-images.githubusercontent.com/57630799/77114014-d3692500-6a51-11ea-818c-38363c9c9c21.gif)
 
-###Live Version [Geo-Chat](https://geo-chat-45c78.firebaseapp.com/login)
+### Live Version [Geo-Chat](https://geo-chat-45c78.firebaseapp.com/login)
 
 ## Build Setup
 
